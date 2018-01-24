@@ -1,0 +1,9 @@
+
+[brick]
+name = "ProjA"
+version = "0.1.0"
+chplVersion = "1.17.0"
+source = "https://github.com/mppf/ProjA"
+
+[dependencies]
+ProjB = "0.1.1"
